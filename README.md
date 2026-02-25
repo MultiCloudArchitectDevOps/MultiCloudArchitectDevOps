@@ -86,21 +86,7 @@ I'm a highly accomplished **Senior DevOps & Multi-Cloud Engineer** with over **6
 | 🚀 | **Career Placement** | Engineers placed at Amazon, Microsoft, TCS, Infosys, Wipro & startups |
 | 🎓 | **Lead Trainer** | Most sought-after multicloud & DevOps instructor |
 
----
 
-## 🌐 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogeshwar-deshmukh-12b31b119)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Deshmukh.yogesh333@gmail.com)
-
-[![GitHub followers](https://img.shields.io/github/followers/MultiCloudArchitectDevOps?style=social)](https://github.com/MultiCloudArchitectDevOps)
-
-</div>
-
----
 
 <div align="center">
 
@@ -111,25 +97,24 @@ I'm a highly accomplished **Senior DevOps & Multi-Cloud Engineer** with over **6
 
 </div>
 <p align="center">
-  <img src="assets/profile.jpg" width="320" style="border-radius: 20px;" />
+  <img src="Devops1.jpeg" width="320" style="border-radius: 20px;" />
 </p>
 
-# 👨‍💻 Yogeshwar Walmik Deshmukh | Multi-Cloud DevOps Architect
+# 👨‍💻 Yogeshwar Walmik Deshmukh | Multi-Cloud DevOps Architect/Engineer
 ### 🚀 Senior DevOps Engineer | Multi-Cloud Specialist | AI-Driven Automation
 ### *Building scalable, resilient, and automated cloud infrastructures*
 
 > *"I don't just deploy to cloud — I engineer production-grade systems."*
+---
 
-<p align="center">
-  <a href="https://github.com/MultiCloudArchitectDevOps">
-    <img src="https://komarev.com/ghpvc/?username=MultiCloudArchitectDevOps&color=FF9900&style=for-the-badge&label=Profile+Views" />
-  </a>
-  <a href="https://www.linkedin.com/in/yogeshwar-deshmukh-12b31b119">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:Deshmukh.yogesh333@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogeshwar-deshmukh-12b31b119)
+
+[![GitHub followers](https://img.shields.io/github/followers/MultiCloudArchitectDevOps?style=social)](https://github.com/MultiCloudArchitectDevOps)
+
+</div>
 
 ---
