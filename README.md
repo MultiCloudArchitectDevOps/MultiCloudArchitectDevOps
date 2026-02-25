@@ -3,12 +3,10 @@
 </p>
 
 # 👨‍💻 Yogeshwar Walmik Deshmukh | Multi-Cloud DevOps with AI
-### 🚀 Senior DevOps & Multi-Cloud Trainer 
+### 🚀 Senior DevOps & Multi-Cloud Engineer 
 ### *Building scalable, resilient, and automated cloud infrastructures*
 
 > *"I don't just teach cloud — I build engineers who ship to production."*
-
-[![Profile Views](https://komarev.com/ghpvc/?username=MultiCloudArchitectDevOps&color=FF9900&style=for-the-badge&label=Profile+Views)](https://github.com/MultiCloudArchitectDevOps)
 
 [![Website](https://img.shields.io/badge/Website-LinkedIn_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogeshwar-deshmukh-12b31b119)
 
