@@ -6,7 +6,7 @@
 ### 🚀 Senior DevOps & Multi-Cloud Engineer 
 ### *Building scalable, resilient, and automated cloud infrastructures*
 
-> *"I don't just teach cloud — I build engineers who ship to production."*
+>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogeshwar-deshmukh-12b31b119)
 
