@@ -4,7 +4,7 @@
 
 # 👨‍💻 Yogeshwar Walmik Deshmukh | Multi-Cloud DevOps with AI
 ### 🚀 Senior DevOps & Multi-Cloud Engineer 
-### *Building scalable, resilient, and automated cloud infrastructures*
+### *Building Robust, Scalable, and Self-Managing Cloud Infrastructures.*
 
 >
 
@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-I'm a highly accomplished **Senior DevOps & Multi-Cloud Engineer** with over **6+ years of real-world industry experience** spanning Amazon Web Services, Microsoft Azure, and Google Cloud Platform.
+I'm a highly accomplished **Senior DevOps & Multi-Cloud Engineer** with over **6+ years of real-world industry experience** spanning **Amazon Web Services**, **Microsoft Azure**, and **Google Cloud Platform**.
 
 ---
 
@@ -22,8 +22,8 @@ I'm a highly accomplished **Senior DevOps & Multi-Cloud Engineer** with over **6
 
 - 🔭 **Working on:** Architecting a multi-cloud disaster recovery solution for a critical enterprise application
 - 🌱 **Learning:** Delving deeper into service mesh technologies like Istio and advanced FinOps strategies
-- 👯 **Looking to collaborate on:** Open-source projects focused on Cloud Security, Serverless Frameworks, or Infrastructure as Code
-- 💬 **Ask me about:** AWS, Azure, GCP, Kubernetes, Terraform, Ansible, CI/CD pipelines, and cloud cost optimization
+- 👯 **Looking to collaborate on:** Open-source projects focused on **Cloud Security**, **Serverless Frameworks**, or **Infrastructure as Code**
+- 💬 **Ask me about:** **AWS**, **Azure**, **GCP**, **Kubernetes**, **Terraform**, **Ansible**, **CI/CD pipelines**, and **Cloud Cost Optimization**
 - ⚡ **Fun fact:** I once automated an entire development environment setup with a single script, saving countless hours!
 ---
 
@@ -90,7 +90,7 @@ I'm a highly accomplished **Senior DevOps & Multi-Cloud Engineer** with over **6
 
 <div align="center">
 
-### 💬 *"The best way to learn Multicloud DevOps is to build real systems — not memorise commands."*
+### 💬 *"To truly learn Multicloud DevOps, focus on creating real-world systems rather than memorizing commands."*
 **— Yogeshwar Walmik Deshmukh**
 
 </div>
@@ -100,9 +100,9 @@ I'm a highly accomplished **Senior DevOps & Multi-Cloud Engineer** with over **6
 
 # 👨‍💻 Yogeshwar Walmik Deshmukh | Multi-Cloud DevOps Architect/Engineer
 ### 🚀 Senior DevOps Engineer | Multi-Cloud Specialist | AI-Driven Automation
-### *Building scalable, resilient, and automated cloud infrastructures*
+### *Building Robust, Scalable, and Self-Managing Cloud Infrastructures.*
 
-> *"I don't just deploy to cloud — I engineer production-grade systems."*
+> *"I don’t simply deploy — I create resilient, production-ready cloud systems."*
 ---
 
 ## 🌐 Let's Connect
