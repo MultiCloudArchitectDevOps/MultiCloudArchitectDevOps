@@ -102,3 +102,26 @@ My teaching is rooted in industry practice — every concept I deliver is backed
 ⭐ *Star my repos if you find them useful!*
 
 </div>
+<p align="center">
+  <img src="assets/profile.jpg" width="320" style="border-radius: 20px;" />
+</p>
+
+# 👨‍💻 Yogeshwar Walmik Deshmukh | Multi-Cloud DevOps Architect
+### 🚀 Senior DevOps Engineer | Multi-Cloud Specialist | AI-Driven Automation
+### *Building scalable, resilient, and automated cloud infrastructures*
+
+> *"I don't just deploy to cloud — I engineer production-grade systems."*
+
+<p align="center">
+  <a href="https://github.com/MultiCloudArchitectDevOps">
+    <img src="https://komarev.com/ghpvc/?username=MultiCloudArchitectDevOps&color=FF9900&style=for-the-badge&label=Profile+Views" />
+  </a>
+  <a href="https://www.linkedin.com/in/yogeshwar-deshmukh-12b31b119">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:Deshmukh.yogesh333@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
