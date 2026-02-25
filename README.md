@@ -8,35 +8,28 @@
 
 > *"I don't just teach cloud — I build engineers who ship to production."*
 
-[![Website](https://img.shields.io/badge/Website-LinkedIn_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogeshwar-deshmukh-12b31b119)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogeshwar-deshmukh-12b31b119)
 
 ---
 
 ## 👋 About Me
 
-I'm a highly accomplished **Senior DevOps & Multi-Cloud Trainer** with over **14+ years of real-world industry experience** spanning Amazon Web Services, Microsoft Azure, and Google Cloud Platform.
-
-I have personally trained more than **20,000+ students**, guiding them from absolute beginner level to landing roles at top MNCs and product-based companies across India and abroad.
-
-My teaching is rooted in industry practice — every concept I deliver is backed by real production experience. I have architected large-scale cloud infrastructures, led DevOps transformations for enterprises, and built CI/CD pipelines powering mission-critical applications.
+I'm a highly accomplished **Senior DevOps & Multi-Cloud Engineer** with over **6+ years of real-world industry experience** spanning Amazon Web Services, Microsoft Azure, and Google Cloud Platform.
 
 ---
 
-## 📊 By The Numbers
+## 🎯 Current Engagements
 
-<div align="center">
-
-| 🕐 Experience | 🎓 Students Trained | ☁️ Cloud Platforms | 🚀 Live Projects | 🎯 Approach |
-|:---:|:---:|:---:|:---:|:---:|
-| **14+ Years** | **20,000+** | **3** | **30+** | **100% Practical** |
-
-</div>
-
+- 🔭 **Working on:** Architecting a multi-cloud disaster recovery solution for a critical enterprise application
+- 🌱 **Learning:** Delving deeper into service mesh technologies like Istio and advanced FinOps strategies
+- 👯 **Looking to collaborate on:** Open-source projects focused on Cloud Security, Serverless Frameworks, or Infrastructure as Code
+- 💬 **Ask me about:** AWS, Azure, GCP, Kubernetes, Terraform, Ansible, CI/CD pipelines, and cloud cost optimization
+- ⚡ **Fun fact:** I once automated an entire development environment setup with a single script, saving countless hours!
 ---
 
 ## 🛠️ Technology Arsenal
+
+<div align="center">
 
 ### ☁️ Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -52,29 +45,46 @@ My teaching is rooted in industry practice — every concept I deliver is backed
 ![Jenkins](https://img.shields.io/badge/Jenkins-2C526F?style=for-the-badge&logo=jenkins&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### 📊 Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+
+### 🤖 AI & ML for DevOps
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### 💻 Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
 
 ---
 
-## 📊 GitHub Analytics Dashboard
+## 💡 What I Specialise In
 
-<div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=MultiCloudArchitectDevOps&theme=tokyonight&hide_border=false"/>
-</div>
-
-### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://img.shields.io/github/followers/MultiCloudArchitectDevOps?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/github/stars/MultiCloudArchitectDevOps?style=for-the-badge&logo=github"/>
-</p>
-
-### 📈 Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MultiCloudArchitectDevOps&theme=tokyo-night&bg_color=0a0e1a&color=FF9900&line=6ee7f7&point=f5576c&area=true&hide_border=true"/>
-
-### 🔥 Streak Statistics
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MultiCloudArchitectDevOps&theme=tokyonight&hide_border=true"/>
-</p>
+| # | Area | What I Do |
+|---|------|-----------|
+| 🎯 | **Project-Based Learning** | Every module built around real-world deployments — not just slides |
+| 🏭 | **Enterprise Cloud Architect** | Production-grade infra design on AWS, Azure and GCP |
+| ☸️ | **Kubernetes & Containers** | Docker, EKS, AKS, GKE, Helm, ArgoCD and full GitOps workflows |
+| 🔧 | **Infrastructure as Code** | Terraform, Ansible, OpenTofu — full cloud automation from scratch |
+| 🤖 | **AI & ML for DevOps** | KubeGPT, GitHub Copilot, AIOps and LLM-powered pipelines |
+| 🔒 | **Cloud Security** | IAM, SSO, VPC hardening, zero-trust and compliance architecture |
+| 📊 | **Observability** | Prometheus, Grafana, ELK Stack, CloudWatch — full-stack alerting |
+| 🌍 | **Multi-Cloud Strategy** | Cost optimisation, cloud-native migration and hybrid governance |
+| 🚀 | **Career Placement** | Engineers placed at Amazon, Microsoft, TCS, Infosys, Wipro & startups |
+| 🎓 | **Lead Trainer** | Most sought-after multicloud & DevOps instructor |
 
 ---
 
