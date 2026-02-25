@@ -93,8 +93,6 @@ I'm a highly accomplished **Senior DevOps & Multi-Cloud Engineer** with over **6
 ### 💬 *"The best way to learn Multicloud DevOps is to build real systems — not memorise commands."*
 **— Yogeshwar Walmik Deshmukh**
 
-⭐ *Star my repos if you find them useful!*
-
 </div>
 <p align="center">
   <img src="Devops1.jpeg" width="320" style="border-radius: 20px;" />
