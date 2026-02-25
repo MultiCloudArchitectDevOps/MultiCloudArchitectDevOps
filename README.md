@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="veera.jpeg" width="350" style="border-radius: 80%;" />
+  <img src="yogesh.jpg" width="350" style="border-radius: 80%;" />
 </p>
 
 # 👨‍💻 Yogeshwar Walmik Deshmukh | Multi-Cloud DevOps with AI
