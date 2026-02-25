@@ -3,7 +3,7 @@
 </p>
 
 # 👨‍💻 Yogeshwar Walmik Deshmukh | Multi-Cloud DevOps with AI
-### 🚀 Senior DevOps & Multi-Cloud Engineer 
+### 🚀 Senior Software Technical Writer & Senior Multicloud DevOps Engineer 
 ### *Building Robust, Scalable, and Self-Managing Cloud Infrastructures.*
 
 >
@@ -14,7 +14,59 @@
 
 ## 👋 About Me
 
-I'm a highly accomplished **Senior DevOps & Multi-Cloud Engineer** with over **6+ years of real-world industry experience** spanning **Amazon Web Services**, **Microsoft Azure**, and **Google Cloud Platform**.
+I'm a highly accomplished **Senior Software Technical Writer & Senior Multicloud DevOps Engineer** with over **8.5+ years of real-world industry experience** creating developer and **API Documentation**** in the **Software Development** and **DevOps Ecosystem**. I specialize in **Docs-as-Code Workflows**, combining strong writing skills with hands-on technical knowledge in **API's**, **Python**, **NodeJS**, **Java**, **Git**, **Amazon Web Services**, **Microsoft Azure**, and **Google Cloud Platform**.
+
+I also leverage Al-assisted tools like **Cursor**, **GitHub Copilot** to enhance content accuracy, automate routine tasks, and streamline the **Technical Documentation Lifecycle**.
+
+SKILLS
+**AWS Services**:
+ECS, ECR, VPC, ALB, RDS, ALB, Cloudwatch, Lambda, Route53, S3.
+
+**Programming**:
+Python, NodeJS, Java, SQL, Bash Scripting.
+
+**Observability Tools**:
+Honeycomb, AWS X-Ray.
+
+**Version Control System**:
+Git, Github, Gitlab.
+
+**Technologies**: 
+Cloud Computing (SaaS, PaaS, laaS), Virtualization, Networking, and Storage.
+
+**Certifications**:
+Learn API Technical Writing: JDON and XML for Writers, Learn API Technical Writing:Rest for Writers, The Art of API Documentation, The Complete Scrum Guide for Scrum Masters and Agile Teams, Agile Scrum Master Certification 2025: Master for Growth, ChatGPT Masterclass: The Guide to Al & Prompt Engineering, Learn Swagger and the OpenAPI Specification, and Coding for Writers: Basic Programming.
+
+**Docs-as-code tool-chain**: 
+Asciidoc, Markdown, Git, GitHub.
+
+**Writing Methodologies**: 
+Structured Authoring, Topic-Based Authoring, Modular Documentation, Docs-as-Code, Single Sourcing, Content Reuse, Knowledge Bases (KBs), IBM & Microsoft Style Guides.
+
+**Project Management Tools**: 
+JIRA, Confluence, Click Ups, Azure DevOps
+
+**Authoring Tools**:
+Madcap Flare, Confluence, Arbortext EPIC/XML Editor, Oxygen XML editor, Adobe RoboHelp, Adobe FrameMaker, User Pilot, GuiddeAi, ScribeAi, Document360, and Serna.
+
+**Processes & Methodologies**:
+DITA, Agile, DDLC, and SDLC.
+
+**Markup Languages**:
+Markdown, HTML, CSS, XML, and DTD.
+
+**API Tools**:
+Postman, SwaggerHub, OpenAPl Spec, JSON, and YAML.
+
+**Content Management Systems (CMS)**:
+Git, Github, Gitlab, and BitBucket.
+
+**Awards/ACHIEVEMENTS**
+Award--------------Company Name--------------Year
+Energizer    Simplify Healthcare             2025
+Customer     SuperHero Simplify Healthcare   2024
+Business     Excellence Fis Solutions LTD    2022
+Best Author  Capgemini India LTD             2019
 
 ---
 
